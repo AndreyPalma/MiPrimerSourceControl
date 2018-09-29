@@ -1,0 +1,18 @@
+﻿El iPhone X cuenta con una pantalla llamada Super Retina HD4​ de 5.8 pulgadas de tipo OLED 
+que cubre los espacios de color DCI-P3 y sRGB, y además es compatible con imágenes
+de alto rango dinámico (HDR). También incluye la tecnología True Tone que se 
+encuentra en el iPad Pro y otros dispositivos de la compañía, 
+y cuenta con un brillo máximo típico de 625 cd/m2.
+El sistema de desbloqueo Face ID5​ reemplaza por completo a Touch ID
+en este modelo. Una cámara de infrarrojos
+lee un patrón de puntos que se emite desde un proyector 
+de 30 000 puntos invisible sobre la cara del usuario, 
+creando un mapa facial único, capturando una imagen de la cara,
+y envía los datos al elemento seguro del chip 
+A11 Bionic (que contiene un motor neuronal de inteligencia artificial dedicado)
+para contrastar la cara del usuario 
+con la almacenada en el elemento seguro. El iluminador infrarrojo ayuda a identificar la 
+cara del usuario en la oscuridad. 
+El proyector de puntos sitúa más de 30 000 puntos invisibles sobre la cara para crear un mapa facial único. 
+El sistema no funcionará con los ojos cerrados o no mirando al teléfono, impidiendo el acceso si no está mirándose 
+activamente la pantalla del dispositivo.
